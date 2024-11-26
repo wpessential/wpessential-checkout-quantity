@@ -1,2 +1,2 @@
-# wpessential-checkout-quantity
-WPEssential checkout quantity add the quantity field on each product to update it via ajax.
+# WPEssential Checkout Quantity
+WPEssential checkout quantity adds the quantity field on each product to update it via Ajax.
