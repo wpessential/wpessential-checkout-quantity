@@ -8,8 +8,8 @@
  * @license           GPL-3.0-or-later
  *
  * @wordpress-plugin
- * Plugin Name: WPEssential
- * Description: WPEssential checkout quantity add the quantity field on each product to update it via ajax.
+ * Plugin Name: WPEssential Checkout Quantity
+ * Description: WPEssential checkout quantity adds the quantity field on each product to update it via Ajax.
  * Plugin URI: https://wpessential.org/
  * Author: WPEssential
  * Version: 1.0
