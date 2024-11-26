@@ -1,4 +1,29 @@
 <?php
+/**
+ * WPEssential
+ *
+ * @package           wpessential-checkout-quantity
+ * @author            WPEssential
+ * @copyright         2024 WPEssential
+ * @license           GPL-3.0-or-later
+ *
+ * @wordpress-plugin
+ * Plugin Name: WPEssential
+ * Description: WPEssential checkout quantity add the quantity field on each product to update it via ajax.
+ * Plugin URI: https://wpessential.org/
+ * Author: WPEssential
+ * Version: 1.0
+ * Author URI: https://wpessential.org/
+ * Text Domain: wpessential-checkout-quantity
+ * Requires PHP: 7.3
+ * Requires at least: 5.5
+ * Tested up to: 5.7
+ * WC requires at least: 5.0
+ * WC tested up to: 9.0
+ * License: GPL v3 or later
+ * License URI: https://www.gnu.org/licenses/gpl-3.0.html
+ * Domain Path: /languages
+ */
 
 /**
  * Class WPEssential Checkout Quantity
